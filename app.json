@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "zomato-clone",
+    "slug": "zomato-clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
